@@ -1,2 +1,2 @@
 # PdExternal-SignalExample
-An example for compile Pd signal objects
+An example for compiling Pd signal objects
